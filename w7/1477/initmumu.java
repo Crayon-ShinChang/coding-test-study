@@ -37,3 +37,4 @@ public class initmumu {
         System.out.println(answer);
     }
 }
+
