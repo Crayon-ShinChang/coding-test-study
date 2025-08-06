@@ -58,3 +58,4 @@ public class initmumu {
         else System.out.println("B");
     }
 }
+
